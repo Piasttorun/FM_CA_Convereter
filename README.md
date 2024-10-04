@@ -4,5 +4,3 @@ Converts FM(24) current ability to a fifa style overall, credit for the formula 
 use jar file in /out
 cmd
 ```java -jar .\FM-CA-Converter.jar 170```
-=
-87.8
