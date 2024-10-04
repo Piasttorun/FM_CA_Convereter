@@ -1,0 +1,2 @@
+# FM_CA_Convereter
+Converts FM(24) current ability to a fifa style overall, credit for the formula goes to reddit post:https://www.reddit.com/r/FifaCareers/comments/ldkpq9/football_manager_nutter_bringing_the_spreadsheets/
